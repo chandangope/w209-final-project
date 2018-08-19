@@ -12,5 +12,5 @@ http://people.ischool.berkeley.edu/~chandangope/project/
 
 # How to Use
 There are 2 ways to use:
-* Use the above demo link to interact with the visualizations as a web-page
-* Download the Tableau workbooks (https://github.com/chandangope/w209-final-project/tree/master/tableau) and data and work with it locally on your desktop
+* Use the above [demo link](http://people.ischool.berkeley.edu/~chandangope/project/) to interact with the visualizations as a web-page
+* Download the Tableau [workbooks](https://github.com/chandangope/w209-final-project/tree/master/tableau) and work with it locally on your desktop
