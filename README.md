@@ -1,6 +1,7 @@
-# UC Berkeley MIDS, W209 Data Vizualization (Summer 2018) Final Project
+# Home and rental price market analysis
+UC Berkeley MIDS, W209 Data Vizualization (Summer 2018) Final Project
 
-# Authors: Pragnesh Vidyasagar, Chandan Gope, Aniruddh Nautiyal 
+Authors: Pragnesh Vidyasagar, Chandan Gope, Aniruddh Nautiyal 
 
 # Description
 This project is about real estate market analysis primarily using Zillow data. We have used Tableau to create some interactive visualizations which allows the user to gain insight about home values and rental prices, and hopefully be able to make some investment decisions.
